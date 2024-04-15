@@ -29,7 +29,7 @@ Mark License Plates: For each detected license plate, draw a rectangle around it
 Display the Image: Display the processed image with the marked license plates using the cv2_imshow method from Google Colab
 
 
-References:
+## References:
 M M Shidore, and S P Narote. (2011) “Number Plate Recognition for Indian Vehicles” International Journal of Computer Science and Network Security 11 (2): 143-146
 Sang Kyoon Kim, D. W. Kim and Hang Joon Kim. (1996) “A recognition of vehicle license plate using a genetic algorithm based segmentation,” Proceedings of 3rd IEEE International Conference on Image Processing, Lausanne.
 https://docs.opencv.org/master/
